@@ -29,7 +29,7 @@ You can find documentation for scripting in Minecraft Bedrock at: https://learn.
    code .
    ```
 
-##
+## Common commands to run
 
 Deploy your project to Minecraft
 
