@@ -1,0 +1,1 @@
+# minecraft-bedrock-scripting-addon-template
